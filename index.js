@@ -2,7 +2,7 @@ const { REST } = require('@discordjs/rest');
 
 const { Routes } = require('discord-api-types/v9');
 
-const token = "OTA4NDI1NjM5ODk0MzE5MTA0.YY1jTg.wFH8oddZm4EyZGgqbJUI3W2r5V8"
+const token = ""
 
 const fs = require('fs');
 
