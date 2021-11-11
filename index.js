@@ -66,7 +66,7 @@ const rest = new REST({ version: '9' }).setToken(token);
 
     await rest.put(
 
-      Routes.applicationCommands("908425639894319104"),
+      Routes.applicationCommands("applicationid"),
 
       { body: commands },
 
